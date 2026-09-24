@@ -35,9 +35,9 @@
 ---
 
 <p align="center">
-  <a href="https://linkedin.com/in/shusantgope">LinkedIn</a> •
-  <a href="https://twitter.com/shusantgope">Twitter / X</a> •
-  <a href="mailto:your.email@example.com">Email</a>
+  <a href="https://www.linkedin.com/in/shusant-gope-5b8a33333/">LinkedIn</a> •
+  <a href="https://x.com/gope_shusant">Twitter / X</a> •
+  <a href="mailto:dhiravion@gmail.com">Email</a>
 </p><!--
 **dhiravion/dhiravion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
